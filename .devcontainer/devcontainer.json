@@ -6,7 +6,8 @@
       "extensions": [
         "ms-vscode.cpptools",
         "ms-vscode.makefile-tools",
-        "usernamehw.errorlens"
+        "usernamehw.errorlens",
+        "ms-vscode.cpptools-extension-pack"
       ]
     }
   }
