@@ -1,0 +1,6 @@
+Las N-Reinas
+El clásico por excelencia, pero enfocado en la primera solución. Tienes un tablero de ajedrez de N x N.
+
+Reglas: Debes colocar N reinas en el tablero de tal forma que ninguna amenace a otra (no pueden compartir la misma fila, columna ni diagonal).
+
+Objetivo: Encontrar la primera disposición válida para las reinas e imprimir el tablero (puedes usar un 1 o una Q para las reinas y 0 o . para los espacios vacíos).

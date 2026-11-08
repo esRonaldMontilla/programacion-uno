@@ -1,0 +1,6 @@
+Suma de Subconjuntos (Subset Sum)
+Tienes un arreglo de números enteros positivos (ej. {3, 34, 4, 12, 5, 2}) y un número objetivo S (ej. 9).
+
+Reglas: Debes decidir para cada número si lo incluyes o no en tu suma actual.
+
+Objetivo: Encontrar la primera combinación de números dentro del arreglo que sume exactamente S. Una vez encontrada, imprime los números que forman esa suma y detén el algoritmo.

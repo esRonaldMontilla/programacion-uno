@@ -1,0 +1,7 @@
+Permutación con Condición (Los "No Vecinos")
+Generar permutaciones es el clásico ejemplo de backtracking. Vamos a darle un giro básico.
+Tienes un arreglo con los números del 1 al N (ej. N = 4, arreglo {1, 2, 3, 4}).
+
+Reglas: Debes generar una permutación de estos números con una condición: no pueden haber dos números pares juntos.
+
+Objetivo: Encontrar y mostrar en pantalla la primera permutación válida que cumpla esta regla.

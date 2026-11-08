@@ -1,0 +1,6 @@
+4. El Coloreo de Grafos (Versión Simple)
+Imagina un mapa con V países (vértices). Tienes un máximo de M colores.
+
+Reglas Dos países que comparten frontera (están conectados) no pueden tener el mismo color. Te daré (o puedes crear) una matriz de adyacencia sencilla donde grafo[i][j] = 1 significa que el país i y el j comparten frontera.
+
+Objetivo Asignar un color (representado por números 1, 2, ..., M) a cada vértice. Detenerse e imprimir la primera asignación de colores válida para todos los países.

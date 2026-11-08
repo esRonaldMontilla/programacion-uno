@@ -1,0 +1,8 @@
+El Laberinto Básico (Solo Derecha y Abajo)
+Tienes una matriz de N x N que representa un laberinto. El punto de partida es (0, 0) y la salida está en (N-1, N-1).
+
+Reglas: Solo puedes moverte hacia la Derecha o hacia Abajo.
+
+Obstáculos: El número 0 representa un camino libre y el número 1 representa una pared.
+
+Objetivo: Encontrar el primer camino válido hasta la salida. Imprime las coordenadas por las que vas pasando o marca el camino en la matriz con un número especial (ej. 2) y muéstrala.s
